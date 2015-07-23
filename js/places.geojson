@@ -17,5 +17,58 @@
           44.98044862724291
         ]
       }
+
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Menchie's Frozen Yogurt",
+        "address": "742 Cleveland Ave S",
+        "web": "http://www.menchies.com",
+        "poi_type": "conf",
+        "scoop":"NACIS conference site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.187070,
+          44.918777 
+        ]
+      }
+
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Everest on Grand",
+        "address": "1278 Grand Ave",
+        "web": "http://www.everestongrand.com",
+        "poi_type": "conf",
+        "scoop":"NACIS conference site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.154103,
+          44.939838
+        ]
+      }
+
+
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Moscow on the Hill",
+        "address": "1278 Grand Ave",
+        "web": "http://www.moscowonthehill.com",
+        "poi_type": "conf",
+        "scoop":"NACIS conference site"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.115650,
+          44.946714
+        ]
+      }
+
     }]
 }
